@@ -2,7 +2,8 @@ Hi 👋 My name is Amit Agarwal
 =============================  
 Senior Software Engineer  
 ------------------------  
-A back-end engineer with 5+ years of experience slowly migrating to front-end because I'm tired of giving command line tools.Recently moved to JavaScript because C can't create everything.  
+A back-end engineer with 5+ years of experience in fintech domain.  
+I am creating and maintaining a backend for over 20+ indian banks which is doing over 80 lacs of transaction per day.  
 * * 🌍  I'm based in Bangalore, India.  
 * * ✉️  You can contact me at [agarwalamit46@gmail.com](mailto:agarwalamit46@gmail.com)  
 * * 🧠  I'm learning Angular12 and Typeorm  
