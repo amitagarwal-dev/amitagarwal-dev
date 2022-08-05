@@ -7,7 +7,7 @@ I am creating and maintaining a backend for over 20+ indian banks which is doing
 * * 🌍  I'm based in Bangalore, India.  
 * * ✉️  You can contact me at [agarwalamit46@gmail.com](mailto:agarwalamit46@gmail.com)  
 * * 🧠  I'm learning Angular12 and Typeorm  
-* * 🤝  I'm open to collaborating on any Backend Project  
+* * 🤝  I'm open for collaborating on any Backend Project  
 
 ###  
 Skills
